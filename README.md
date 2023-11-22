@@ -30,16 +30,17 @@ Si estás interesado en colaborar en proyectos o tienes alguna oportunidad de tr
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/joaquinmarmol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/joaquinmarmol" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joaquin-marmol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaquin-marmol/" height="30" width="40" /></a>
 </p>
 
 
--🔭 Actualmente estoy trabajando en Aramaio Tecnología Informática  [Campus Aramaio](https://aramaio-cursos.com/).
+-🎈 Actualmente me encuentro liderando el equipo de programadores en  [Upler](https://upler.tech).
+
+-🔭 Trabaje en Aramaio Tecnología Informática  [Campus Aramaio](https://aramaio-cursos.com/).
 
 -👯 Trabaje en M.A.S creando su sitio web [M.A.S "MEDIO AMBIENTE Y SEGURIDAD NECOCHEA"](https://medioambienteyseguridad.com.ar).
 
--👨‍💻 Todos mis proyectos están disponibles en [https://joaquinmarmol.github.io/](https://joaquinmarmol.github.io/).
+-👨‍💻 Todos mis proyectos están disponibles en [https://joaquinmarmol.github.io/](https://joaquinmarmol.github.io/build/).
 
 -📫 Cómo contactarme: **joaquinmarmolnecochea@gmail.com**.
 
