@@ -11,6 +11,7 @@
 
 - Javascript
 - React
+- Nextjs
 - Java
 - Git
 - Github
