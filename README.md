@@ -3,7 +3,7 @@
 
 [![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Argentina-blue)](#)
 [![Formación](https://img.shields.io/badge/Formaci%C3%B3n-Digital%20House-red)](#)
-[![Estudiante](https://img.shields.io/badge/Estudiante-Conquer%20Blocks-orange)](#)
+[![Formación](https://img.shields.io/badge/Estudiante-Conquer%20Blocks-orange)](#)
 
 ¡Hola! Soy Joaquín, un Desarrollador Profesional Certificado de Digital House. Actualmente, estoy ampliando mis habilidades en programación Blockchain en Conquer Blocks. Mi objetivo principal es potenciar a las empresas manteniéndome al tanto de las tecnologías emergentes y proporcionándoles capacidades de web 3. Al aprovechar mi experiencia en diversas tecnologías y lenguajes de programación para el desarrollo de aplicaciones web, busco crear soluciones innovadoras. El increíble poder transformador de la inteligencia artificial me emociona, y estoy totalmente comprometido con el crecimiento personal, buscando continuamente oportunidades para mejorar mis habilidades.
 
@@ -18,6 +18,7 @@
 - Bootstrap
 - HTML
 - CSS
+- SCSS
 - MySQL
 
 ## En proceso de aprendizaje
