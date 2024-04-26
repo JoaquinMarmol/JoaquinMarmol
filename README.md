@@ -3,9 +3,9 @@
 
 [![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Argentina-blue)](#)
 [![Formación](https://img.shields.io/badge/Formaci%C3%B3n-Digital%20House-red)](#)
-[![Formación](https://img.shields.io/badge/Estudiante-Conquer%20Blocks-orange)](#)
+[![Formación](https://img.shields.io/badge/Formaci%C3%B3n-Conquer%20Blocks-orange)](#)
 
-¡Hola! Soy Joaquín, un Desarrollador Profesional Certificado de Digital House. Actualmente, estoy ampliando mis habilidades en programación Blockchain en Conquer Blocks. Mi objetivo principal es potenciar a las empresas manteniéndome al tanto de las tecnologías emergentes y proporcionándoles capacidades de web 3. Al aprovechar mi experiencia en diversas tecnologías y lenguajes de programación para el desarrollo de aplicaciones web, busco crear soluciones innovadoras. El increíble poder transformador de la inteligencia artificial me emociona, y estoy totalmente comprometido con el crecimiento personal, buscando continuamente oportunidades para mejorar mis habilidades.
+👋 ¡Hola! Soy Joaquín, un Desarrollador Profesional Certificado de Digital House con experiencia en el desarrollo de aplicaciones web y un enfoque particular en la tecnología blockchain. He trabajado previamente en Xerial, una startup argentina que fue adquirida recientemente, donde contribuí al desarrollo de marketplaces y dashboards, así como a la integración de nuestras tecnologías, incluyendo APIs y SDKs de wallet, para clientes.
 
 ## Habilidades
 
